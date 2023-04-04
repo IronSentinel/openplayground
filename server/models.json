@@ -244,7 +244,7 @@
         }
       },
       "gpt-4": {
-        "enabled": false,
+        "enabled": true,
         "status": "ready",
         "meta": [
           "logprobs"
